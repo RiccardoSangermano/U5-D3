@@ -3,7 +3,7 @@ package esercizio2;
 import java.util.ArrayList;
 import java.util.List;
 
-// Libro.java
+
 public class Libro implements ElementoLibro {
     private String titolo;
     private List<String> autori;
